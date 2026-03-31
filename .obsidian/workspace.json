@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
-                "mode": "source",
+                "file": "시간, 공간, 인간/8. 思/39. 해체 — 인식의 기본값을 무너뜨리는 방법론.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4206edc3d9f1f98",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4bde3393984e72d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "39. 해체 — 인식의 기본값을 무너뜨리는 방법론"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "화장실 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "환영합니다! 의 백링크"
+              "title": "화장실 2 의 백링크"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "화장실 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "환영합니다! 의 나가는 링크"
+              "title": "화장실 2 의 나가는 링크"
             }
           },
           {
@@ -172,20 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "화장실 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "화장실 2 의 개요"
+            }
+          },
+          {
+            "id": "d37abd06f9dfbcc8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 243.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,11 +191,54 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "764a601be8bd5fed",
   "lastOpenFiles": [
-    "환영합니다!.md"
+    "시간, 공간, 인간/8. 思/40. 경계 — 있음과 없음이 접하는 곳.md",
+    "시간, 공간, 인간/8. 思/41. 침묵.md",
+    "시간, 공간, 인간/8. 思/34. 시간.md",
+    "시간, 공간, 인간/8. 思/39. 해체 — 인식의 기본값을 무너뜨리는 방법론.md",
+    "화장실 2.md",
+    "한국한시기행/97. 화순 적벽.md",
+    "한국한시기행/3-1. 여수 금오산 향일암.md",
+    "한국한시기행/1-4. 두타산의 가을.md",
+    "한국한시기행/1-3. 설악산의 여름.md",
+    "한국한시기행/1-2. 황매산의 봄.md",
+    "시간, 공간, 인간/9. 美/47. 건축.md",
+    "시간, 공간, 인간/9. 美/46. 미술.md",
+    "시간, 공간, 인간/9. 美/45. 비극.md",
+    "시간, 공간, 인간/9. 美/44. 시.md",
+    "시간, 공간, 인간/9. 美/43. 산조.md",
+    "시간, 공간, 인간/9. 美/42. 음계.md",
+    "시간, 공간, 인간/9. 美",
+    "시간, 공간, 인간/8. 思/38. 계시와 이성.md",
+    "시간, 공간, 인간/8. 思/37. 존재와 의지.md",
+    "시간, 공간, 인간/8. 思/36. 인식론 — 우리가 보는 세계는 실존하는가.md",
+    "시간, 공간, 인간/8. 思/35. 실재론 우리가 보는 세계는 실존하는가.md",
+    "시간, 공간, 인간/8. 思",
+    "시간, 공간, 인간/4. 統/21. 초끈이론 — 물리학의 가장 아름다운 미완성 문장.md",
+    "시간, 공간, 인간/4. 統",
+    "시간, 공간, 인간/10.  望/50. 인간 - 계산되지 않는 나머지.md",
+    "시간, 공간, 인간/10.  望/49. 공존 - 엔트로피의 파도를 거스르다.md",
+    "시간, 공간, 인간/10.  望/48. 우주 - 침묵의 부피.md",
+    "시간, 공간, 인간/10.  望",
+    "한국한시기행/98. 속리산 법주사.md",
+    "한국한시기행/2-1. 진도군 관매도.md",
+    "시간, 공간, 인간/X.  望",
+    "시간, 공간, 인간/0. 서문",
+    "한국한시기행/사진/천관산 현구부설.jpg",
+    "한국한시기행/사진/천관산 풍탑석탑.jpg",
+    "한국한시기행/사진/천관산 설복시비.jpg",
+    "한국한시기행/사진/천관산 석탑대설.jpg",
+    "한국한시기행/사진/천관산 석관용천.jpg",
+    "한국한시기행/사진/천관산 단청백령.jpg",
+    "한국한시기행/사진/천관산 고령일선.jpg",
+    "한국한시기행/사진",
+    "한국한시기행",
+    "시",
+    "시간, 공간, 인간"
   ]
 }
