@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "《시간, 공간, 인간(時間, 空間, 人間)》/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-04-05T11:23:19.553Z",
+      "total": 0,
+      "drafts": {
+        "시간, 공간, 인간/시간 공간 인간/Index.md": {
+          "total": 0,
+          "scenes": {
+            "undefined": 0
+          }
+        },
+        "《시간, 공간, 인간(時間, 空間, 人間)》/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "《시간, 공간, 인간(時間, 空間, 人間)》/시간 공간 인간/Index.md": {
+          "total": 0,
+          "scenes": {
+            "undefined": 0
+          }
+        },
+        "시간 공간 인간/Index.md": {
+          "total": 0,
+          "scenes": {
+            "undefined": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
