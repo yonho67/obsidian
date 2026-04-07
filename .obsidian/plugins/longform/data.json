@@ -1,10 +1,30 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "《시간, 공간, 인간(時間, 空間, 人間)》/Index.md",
+  "selectedDraftVaultPath": "시/유배군도/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2026-04-07T10:44:50.749Z",
+      "total": 1101,
+      "drafts": {
+        "유배군도/Index.md": {
+          "total": 1094,
+          "scenes": {
+            "「流配群島 — 이름을 지우는 바다」": 395,
+            "해제(解題)": 699
+          }
+        },
+        "시/유배군도/Index.md": {
+          "total": 1101,
+          "scenes": {
+            "「流配群島」": 402,
+            "해제(解題)": 699
+          }
+        }
+      }
+    },
     {
       "start": "2026-04-05T11:23:19.553Z",
       "total": 0,

@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "longform"
+  "longform",
+  "editing-toolbar",
+  "webpage-html-export",
+  "obsidian-pandoc"
 ]
