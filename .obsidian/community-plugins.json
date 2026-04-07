@@ -3,5 +3,6 @@
   "longform",
   "editing-toolbar",
   "webpage-html-export",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "file-diff"
 ]
