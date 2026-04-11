@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": true,
-    "exportPath": "E:\\download",
+    "exportPath": "\\\\Synology\\S\\시간 공간 인간",
     "filesToExport": [
       "시/유배군도/「流配群島」.md"
     ],
