@@ -4,5 +4,6 @@
   "editing-toolbar",
   "webpage-html-export",
   "obsidian-pandoc",
-  "file-diff"
+  "file-diff",
+  "obsidian-importer"
 ]
