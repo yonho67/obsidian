@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay_v91/9. 美/48. 비극_v91.md",
-                "mode": "source",
+                "file": "essay_v91/10.  望/53. 인간_v91.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "48. 비극_v91"
+              "title": "53. 인간_v91"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "창발",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,13 +210,16 @@
   },
   "active": "2dbf0caff3c3c454",
   "lastOpenFiles": [
+    "essay_v91/6. 生/31. 뇌_v91.md",
+    "essay_v91/10.  望/53. 인간_v91.md",
+    "essay_v80/6. 生/31. 뇌_v80.md",
     "essay_v91/5. 物/26. 결합_v91.md",
-    "essay_v91/8. 思/37. 시간_v91.md",
+    "essay_v91/9. 美/48. 비극_v91.md",
     "essay_v91/10.  望/52. 공존_v91.md",
+    "essay_v91/8. 思/37. 시간_v91.md",
     "essay_v91/10.  望/51. 우주_v91.md",
     "essay_v91/9. 美/50. 건축_v91.md",
     "essay_v91/9. 美/IX. 美 — 형식의 충동_v91.md",
-    "essay_v91/9. 美/48. 비극_v91.md",
     "essay_v91/8. 思/41. 이성_v91.md",
     "essay_v91/8. 思/40. 의지_v91.md",
     "essay_v91/8. 思/39. 인식_v91.md",
@@ -223,7 +227,6 @@
     "essay_v91/7. 計/36. 양자계산_v91.md",
     "essay_v91/7. 計/35. 인공지능_v91.md",
     "essay_v91/7. 計/34. 계산_v91.md",
-    "essay_v91/6. 生/31. 뇌_v91.md",
     "essay_v91/6. 生/30. 진화_v91.md",
     "essay_v91/6. 生/29. 세포_v91.md",
     "essay_v91/5. 物/27. 문턱_v91.md",
@@ -233,8 +236,6 @@
     "essay_v91/2. 力/11. 엔트로피_v91.md",
     "essay_v91/2. 力/10. 휨_v91.md",
     "essay_v91/2. 力/9. 동시성_v91.md",
-    "essay_v80/1. 數/I. 數 — 형식의 발견_v80.md",
-    "분명.md",
     "essay_v80/0. 서문/sedSC6N6D",
     "essay_v90/0. 서문/sedOW7S9C",
     "essay_v90/0. 서문/sed7osiGk",
