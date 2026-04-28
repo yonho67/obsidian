@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "창발",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,8 +208,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2dbf0caff3c3c454",
+  "active": "08fc9f6f999d8801",
   "lastOpenFiles": [
+    "essay_v91/8. 思/38. 실재_v91.md",
+    "essay_v91/0. 서문/집필 원칙 - v0.9까지.md",
     "essay_v91/6. 生/31. 뇌_v91.md",
     "essay_v91/10.  望/53. 인간_v91.md",
     "essay_v80/6. 生/31. 뇌_v80.md",
@@ -234,8 +236,6 @@
     "essay_v90/5. 物/25. 원자_v90.md",
     "essay_v91/2. 力/12. 혼돈_v91.md",
     "essay_v91/2. 力/11. 엔트로피_v91.md",
-    "essay_v91/2. 力/10. 휨_v91.md",
-    "essay_v91/2. 力/9. 동시성_v91.md",
     "essay_v80/0. 서문/sedSC6N6D",
     "essay_v90/0. 서문/sedOW7S9C",
     "essay_v90/0. 서문/sed7osiGk",
