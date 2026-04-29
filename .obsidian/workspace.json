@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay_v91/0. 서문/목차_v91.md",
+                "file": "essay_v91/3. 波/14. 파동과 확률_v91.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "목차_v91"
+              "title": "14. 파동과 확률_v91"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 310.5
   },
   "right": {
     "id": "077d3af94ffda61e",
@@ -209,10 +209,23 @@
   },
   "active": "2dbf0caff3c3c454",
   "lastOpenFiles": [
+    "essay_v91/3. 波/13. 양자_v91.md",
+    "essay_v91/3. 波/16. 경로_v91.md",
+    "essay_v91/3. 波/15. 불확정성_v91.md",
+    "essay_v91/3. 波/14. 파동과 확률_v91.md",
+    "essay_v91/3. 波/18. 측정_v91.md",
+    "essay_v91/3. 波/17. 얽힘_v91.md",
+    "essay_v91/1. 數/3. 극한과 무한_v91.md",
+    "essay_v91/8. 思/41. 이성_v91.md",
+    "essay_v91/8. 思/39. 인식_v91.md",
+    "essay_v91/4. 統/21. 빅뱅_v91.md",
+    "essay_v91/0. 서문/집필 원칙 - v0.9에서 v1.0까지.md",
+    "essay_v91/0. 서문/집필 원칙 - v0.9까지.md",
+    "essay_v91/0. 서문/목차_v91.md",
+    "essay_v90/0. 서문/목차_v90.md",
     "essay_v91/2. 力/7. 운동_v91.md",
     "essay_v91/10.  望/53. 인간_v91.md",
     "essay_v91/8. 思/38. 실재_v91.md",
-    "essay_v91/0. 서문/집필 원칙 - v0.9까지.md",
     "essay_v91/6. 生/31. 뇌_v91.md",
     "essay_v80/6. 生/31. 뇌_v80.md",
     "essay_v91/5. 物/26. 결합_v91.md",
@@ -222,19 +235,6 @@
     "essay_v91/10.  望/51. 우주_v91.md",
     "essay_v91/9. 美/50. 건축_v91.md",
     "essay_v91/9. 美/IX. 美 — 형식의 충동_v91.md",
-    "essay_v91/8. 思/41. 이성_v91.md",
-    "essay_v91/8. 思/40. 의지_v91.md",
-    "essay_v91/8. 思/39. 인식_v91.md",
-    "essay_v91/7. 計/33. 정보_v91.md",
-    "essay_v91/7. 計/36. 양자계산_v91.md",
-    "essay_v91/7. 計/35. 인공지능_v91.md",
-    "essay_v91/7. 計/34. 계산_v91.md",
-    "essay_v91/6. 生/30. 진화_v91.md",
-    "essay_v91/6. 生/29. 세포_v91.md",
-    "essay_v91/5. 物/27. 문턱_v91.md",
-    "essay_v91/5. 物/25. 원자_v91.md",
-    "essay_v90/5. 物/25. 원자_v90.md",
-    "essay_v91/2. 力/12. 혼돈_v91.md",
     "essay_v80/0. 서문/sedSC6N6D",
     "essay_v90/0. 서문/sedOW7S9C",
     "essay_v90/0. 서문/sed7osiGk",
