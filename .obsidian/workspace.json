@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 242.5
   },
   "right": {
     "id": "077d3af94ffda61e",
@@ -209,6 +209,8 @@
   },
   "active": "2dbf0caff3c3c454",
   "lastOpenFiles": [
+    "essay_comparison_latest_highlight.xlsx",
+    "essay_comparison_v91_v92.xlsx",
     "essay_v91/8. 思/44. 침묵_v91.md",
     "essay_v92/2. 力/9. 동시성_v92.md",
     "essay_v92/2. 力/11. 엔트로피_v92.md",
@@ -234,7 +236,6 @@
     "essay_v92/3. 波/14. 파동과 확률_v92.md",
     "essay_v92/3. 波/17. 얽힘_v92.md",
     "essay_v92/9. 美/47. 시_v92.md",
-    "essay_v92/9. 美/45. 음계_v92.md",
     "한국한시기행/사진/천관산 현구부설.jpg",
     "한국한시기행/사진/천관산 설복시비.jpg",
     "한국한시기행/사진/천관산 풍탑석탑.jpg",
@@ -252,7 +253,6 @@
     "essay_v91/7. 計",
     "essay_v91/3. 波",
     "essay_v91/6. 生",
-    "essay_v91/4. 統",
     "시간, 공간, 인간/무제.canvas"
   ]
 }
