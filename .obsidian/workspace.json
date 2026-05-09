@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay_v99/1. 數/3. 극한과 무한_v99.md",
+                "file": "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체1_v99.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 극한과 무한_v99"
+              "title": "《시간, 공간, 인간(時間, 空間, 人間)》_전체1_v99"
+            }
+          },
+          {
+            "id": "a835d612c0392775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체2_v99.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《시간, 공간, 인간(時間, 空間, 人間)》_전체2_v99"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 412.5
   },
   "right": {
     "id": "077d3af94ffda61e",
@@ -207,34 +222,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2dbf0caff3c3c454",
+  "active": "a835d612c0392775",
   "lastOpenFiles": [
-    "essay_v99/1. 數/4. 곡률_v99.md",
-    "essay_v99/1. 數/3. 극한과 무한_v99.md",
-    "essay_v99/1. 數/2. 허실_v99.md",
+    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체1_v99.md",
+    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체2_v99.md",
+    "essay_v99/10.  望/X. 望 — 미래를 바라보다_v99.md",
+    "essay_v99/9. 美/IX. 美 — 형식의 충동_v99.md",
+    "essay_v99/8. 思/VIII. 思 — 인식과 철학_v99.md",
+    "essay_v99/7. 計/VII. 計 — 정보와 계산_v99.md",
+    "essay_v99/6. 生/VI. 生 — 생명과 진화_v99.md",
+    "essay_v99/5. 物/V. 物 — 물질과 화학_v99.md",
+    "essay_v99/5. 物/25. 원자_v99.md",
+    "essay_v99/4. 統/IV. 統 — 아직 닫히지 않은 방정식_v99.md",
+    "essay_v99/3. 波/III. 波 — 확률의 세계_v99.md",
+    "essay_v99/2. 力/II. 力 — 자연의 법칙_v99.md",
+    "essay_v99/0. 서문/목차_v99.md",
     "essay_v99/1. 數/1. 공리_v99.md",
+    "essay_v99/0. 서문/序幕 — 問 하늘에 묻다_v99.md",
+    "essay_v99/1. 數/I. 數 — 형식의 발견_v99.md",
+    "essay_v99/0. 서문/終幕 — 答 다시, 하늘에 묻다_v99.md",
+    "essay_v99/9. 美/45. 음계_v99.md",
+    "essay_v99/4. 統/24. 다중우주_v99.md",
+    "essay_v99/0. 서문/목차 간략.md",
+    "essay_v99/1. 數/3. 극한과 무한_v99.md",
+    "essay_v99/1. 數/4. 곡률_v99.md",
+    "essay_v99/1. 數/2. 허실_v99.md",
     "essay_v99/10.  望/53. 인간_v99.md",
     "essay_v99/10.  望/52. 공존_v99.md",
     "essay_v99/10.  望/51. 우주_v99.md",
-    "essay_v99/9. 美/50. 건축_v99.md",
-    "essay_v99/9. 美/49. 미술_v99.md",
-    "essay_v99/9. 美/48. 비극_v99.md",
-    "essay_v99/9. 美/47. 시_v99.md",
-    "essay_v99/9. 美/46. 산조_v99.md",
-    "essay_v99/9. 美/45. 음계_v99.md",
-    "essay_v99/8. 思/44. 침묵_v99.md",
-    "essay_v99/8. 思/43. 경계_v99.md",
-    "essay_v99/8. 思/42. 해체_v99.md",
-    "essay_v99/4. 統/23. 초끈_v99.md",
-    "essay_v99/8. 思/의지.md",
-    "essay_v99/9. 美/IX. 美 — 형식의 충동_v99.md",
-    "essay_v83/1. 數/I. 數 — 형식의 발견_v83.md",
-    "essay/1. 數/I. 數 — 형식의 발견_v99.md",
-    "essay_v99/2. 力/9. 동시성_v99.md",
-    "essay_v99/2. 力/11. 엔트로피_v99.md",
-    "essay_v99/2. 力/II. 力 — 자연의 법칙_v99.md",
-    "essay_v99/2. 力/12. 혼돈_v99.md",
-    "essay_v99/2. 力/7. 운동_v99.md",
     "essay_v99/2. 力",
     "essay_v99/3. 波",
     "essay_v99/10.  望",
