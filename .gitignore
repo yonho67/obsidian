@@ -5,3 +5,6 @@
 .ipynb_checkpoints/
 .obsidian/
 .trash/
+# Windows system files
+desktop.ini
+Thumbs.db
