@@ -7,4 +7,7 @@
 .trash/
 # Windows system files
 desktop.ini
+Desktop.ini
+DESKTOP.INI
 Thumbs.db
+*.lock
