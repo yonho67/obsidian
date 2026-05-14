@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dbf0caff3c3c454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체1_v99.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "《시간, 공간, 인간(時間, 空間, 人間)》_전체1_v99"
-            }
-          },
-          {
             "id": "a835d612c0392775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay_v99/8. 思/42. 해체_v99.md",
+                "file": "essay_v99/8. 思/44. 침묵_v99.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42. 해체_v99"
+              "title": "44. 침묵_v99"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,11 +209,12 @@
   },
   "active": "a835d612c0392775",
   "lastOpenFiles": [
-    "essay_v99/6. 生/32. 의식_v99.md",
-    "essay_v99/6. 生/31. 뇌_v99.md",
     "essay_v99/8. 思/42. 해체_v99.md",
     "essay_v99/8. 思/44. 침묵_v99.md",
     "essay_v99/8. 思/43. 경계_v99.md",
+    "essay_v99/6. 生/32. 의식_v99.md",
+    "essay_v99/6. 生/31. 뇌_v99.md",
+    "essay_v84/8. 思/42. 해체_v84.md",
     "essay_v99/8. 思/41. 이성_v99.md",
     "essay_v99/8. 思/40. 의지_v99.md",
     "essay_v99/8. 思/39. 인식_v99.md",
@@ -249,7 +235,6 @@
     "essay_v99/5. 物/25. 원자_v99.md",
     "essay_v99/4. 統/24. 다중우주_v99.md",
     "essay_v99/4. 統/23. 초끈_v99.md",
-    "essay_v99/4. 統/22. 암흑_v99.md",
     "essay_v99/4. 統/21. 빅뱅_v99.md.tmp.22972.1778600644765",
     "essay_v85/sedmATiGh",
     "essay_v84/essay_vv84/sedS72AP5",
