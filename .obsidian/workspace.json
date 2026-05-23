@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a835d612c0392775",
+            "id": "028516dc7bb3c459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay_v99/10.  望/53. 인간_v99.md",
-                "mode": "preview",
+                "file": "essay_v99/8. 思/39. 인식_v99.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53. 인간_v99"
+              "title": "39. 인식_v99"
+            }
+          },
+          {
+            "id": "aa42c9b0df165977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essay_v99/0. 서문/終幕 — 答 다시, 하늘에 묻다_v99.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "終幕 — 答 다시, 하늘에 묻다_v99"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 200.5
   },
   "right": {
     "id": "077d3af94ffda61e",
@@ -207,44 +222,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a835d612c0392775",
+  "active": "aa42c9b0df165977",
   "lastOpenFiles": [
-    "essay_v99/1. 數/1. 공리_v99.md",
-    "essay_v99/0. 서문/집필 원칙 - v0.9에서 v1.0까지.md",
-    "essay_v99/0. 서문/집필 원칙 - v0.9까지_v99.md",
-    "essay_v99/I. 數.md",
-    "무제.md",
-    "《시간, 공간, 인간(時間, 空間, 人間)》_v99 1.md",
-    "《시간, 공간, 인간(時間, 空間, 人間)》_v99.md",
-    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_v99.md",
-    "essay_v99/0. 서문/목차 간략.md",
-    "essay_v99/0. 서문/목차_v99.md",
-    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체_v99.md",
-    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_단원별_v99.md",
-    "essay_v99/V. 物.md",
-    "essay_v99/X. 望.md",
-    "essay_v99/10.  望/X. 望 — 미래를 바라보다_v99.md",
-    "essay_v99/9. 美/IX. 美 — 형식의 충동_v99.md",
-    "essay_v99/IX. 美.md",
-    "essay_v99/VIII. 思.md",
-    "essay_v99/8. 思/VIII. 思 — 인식과 철학_v99.md",
-    "essay_v99/VII. 計.md",
-    "essay_v99/7. 計/VII. 計 — 정보와 계산_v99.md",
-    "essay_v99/VI. 生.md",
-    "essay_v99/6. 生/VI. 生 — 생명과 진화_v99.md",
-    "essay_v99/5. 物/V. 物 — 물질과 화학_v99.md",
-    "essay_v99/IV. 統.md",
-    "essay_v99/4. 統/IV. 統 — 미완의 방정식_v99.md",
-    "essay_v87/sedGcKSmv",
-    "essay_v87/9. 美",
-    "essay_v87/8. 思",
-    "essay_v87/7. 計",
-    "essay_v87/6. 生",
-    "essay_v87/5. 物",
-    "essay_v87/4. 統",
-    "essay_v87/3. 波",
-    "essay_v87/2. 力",
-    "essay_v87/1. 數",
+    "essay_vv88/10.  望/sed3n7yEm",
+    "essay_vv88/11. 전체/《시간, 공간, 인간(時間, 空間, 人間)》_전체_vv88.md",
+    "essay_vv88/11. 전체/《시간, 공간, 인간(時間, 空間, 人間)》_vv88.md",
+    "essay_vv88/11. 전체/《시간, 공간, 인간(時間, 空間, 人間)》_단원별_vv88.md",
+    "essay_vv88/9. 美/IX. 美 — 형식의 충동_vv88.md",
+    "essay_vv88/9. 美/45. 음계_vv88.md",
+    "essay_vv88/9. 美/48. 비극_vv88.md",
+    "essay_vv88/9. 美/47. 시_vv88.md",
+    "essay_vv88/9. 美/46. 산조_vv88.md",
+    "essay_vv88/9. 美/50. 건축_vv88.md",
+    "essay_vv88/9. 美/49. 미술_vv88.md",
+    "essay_vv88/8. 思/39. 인식_vv88.md",
+    "essay_vv88/8. 思/VIII. 思 — 인식과 철학_vv88.md",
+    "essay_vv88/8. 思/44. 침묵_vv88.md",
+    "essay_vv88/8. 思/40. 의지_vv88.md",
+    "essay_vv88/8. 思/42. 해체_vv88.md",
+    "essay_vv88/8. 思/43. 경계_vv88.md",
+    "essay_vv88/8. 思/37. 시간_vv88.md",
+    "essay_vv88/8. 思/41. 이성_vv88.md",
+    "essay_vv88/8. 思/38. 실재_vv88.md",
+    "essay_vv88/7. 計/36. 양자계산_vv88.md",
+    "essay_vv88/7. 計/35. 인공지능_vv88.md",
+    "essay_vv88/7. 計/VII. 計 — 정보와 계산_vv88.md",
+    "essay_vv88/7. 計/34. 계산_vv88.md",
+    "essay_vv88/7. 計/33. 정보_vv88.md",
+    "essay_vv88/6. 生/VI. 生 — 생명과 진화_vv88.md",
+    "essay_vv88/11. 전체",
+    "essay_vv88/9. 美",
+    "essay_vv88/8. 思",
+    "essay_vv88/7. 計",
+    "essay_vv88/6. 生",
+    "essay_vv88/5. 物",
+    "essay_vv88/4. 統",
+    "essay_vv88/3. 波",
+    "essay_vv88/2. 力",
+    "essay_vv88/1. 數",
     "한국한시기행/사진/천관산 현구부설.jpg",
     "한국한시기행/사진/천관산 설복시비.jpg",
     "한국한시기행/사진/천관산 풍탑석탑.jpg",
