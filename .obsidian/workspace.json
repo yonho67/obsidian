@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay_v99/1. 數/1. 공리_v99.md",
+                "file": "essay_v99/I. 數.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 공리_v99"
+              "title": "I. 數"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 466.5
   },
   "right": {
     "id": "077d3af94ffda61e",
@@ -209,33 +209,33 @@
   },
   "active": "a835d612c0392775",
   "lastOpenFiles": [
-    "essay_v99/1. 數/I. 數 — 형식의 발견_v99.md",
-    "essay_v99/1. 數/1. 공리_v99.md",
-    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_v99.md",
-    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_단원별_v99.md",
-    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체_v99.md",
-    "essay_v99/1. 數/I. 數 단원 설명.md",
-    "essay_v99/2. 力/II. 力 — 자연의 법칙_v99.md",
-    "essay_v99/1. 數/2. 허실_v99.md",
-    "essay_v99/1. 數/6. 불완전성_v99.md",
     "essay_v99/0. 서문/집필 원칙 - v0.9에서 v1.0까지_v99.md",
-    "essay_v86/1. 數/I. 數 — 형식의 발견_v86.md",
+    "무제.md",
+    "《시간, 공간, 인간(時間, 空間, 人間)》_v99 1.md",
+    "《시간, 공간, 인간(時間, 空間, 人間)》_v99.md",
+    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_v99.md",
+    "essay_v99/0. 서문/목차 간략.md",
+    "essay_v99/0. 서문/목차_v99.md",
+    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_전체_v99.md",
+    "essay_v99/《시간, 공간, 인간(時間, 空間, 人間)》_단원별_v99.md",
+    "essay_v99/V. 物.md",
+    "essay_v99/X. 望.md",
+    "essay_v99/10.  望/X. 望 — 미래를 바라보다_v99.md",
+    "essay_v99/9. 美/IX. 美 — 형식의 충동_v99.md",
+    "essay_v99/IX. 美.md",
+    "essay_v99/VIII. 思.md",
+    "essay_v99/8. 思/VIII. 思 — 인식과 철학_v99.md",
+    "essay_v99/VII. 計.md",
+    "essay_v99/7. 計/VII. 計 — 정보와 계산_v99.md",
+    "essay_v99/VI. 生.md",
+    "essay_v99/6. 生/VI. 生 — 생명과 진화_v99.md",
+    "essay_v99/5. 物/V. 物 — 물질과 화학_v99.md",
+    "essay_v99/IV. 統.md",
+    "essay_v99/4. 統/IV. 統 — 미완의 방정식_v99.md",
+    "essay_v99/3. 波/III. 波 — 확률의 세계_v99.md",
+    "essay_v99/III. 波.md",
+    "essay_v99/II. 力.md",
     "essay_v87/sedGcKSmv",
-    "essay_v87/《시간, 공간, 인간(時間, 空間, 人間)》_v87.md",
-    "essay_v87/9. 美/IX. 美 — 형식의 충동_v87.md",
-    "essay_v87/9. 美/45. 음계_v87.md",
-    "essay_v87/9. 美/48. 비극_v87.md",
-    "essay_v87/9. 美/47. 시_v87.md",
-    "essay_v87/9. 美/46. 산조_v87.md",
-    "essay_v87/9. 美/50. 건축_v87.md",
-    "essay_v87/9. 美/49. 미술_v87.md",
-    "essay_v87/8. 思/39. 인식_v87.md",
-    "essay_v87/8. 思/VIII. 思 — 인식과 철학_v87.md",
-    "essay_v87/8. 思/44. 침묵_v87.md",
-    "essay_v87/8. 思/40. 의지_v87.md",
-    "essay_v87/8. 思/42. 해체_v87.md",
-    "essay_v87/8. 思/43. 경계_v87.md",
-    "essay_v87/8. 思/37. 시간_v87.md",
     "essay_v87/9. 美",
     "essay_v87/8. 思",
     "essay_v87/7. 計",
