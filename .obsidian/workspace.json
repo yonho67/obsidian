@@ -84,7 +84,8 @@
               "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2a64b1fbb40e367f",
+  "active": "08fc9f6f999d8801",
   "lastOpenFiles": [
     "시간공간인간/확장본/확장6_m/0. 서문/0. 序幕 — 問 하늘에 묻다_v99.md",
     "시간공간인간/요약본/essay_v99_m/1. 數/1. 공리_v99.md",
