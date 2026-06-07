@@ -11,10 +11,14 @@
             "id": "2a64b1fbb40e367f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "시간공간인간/1_요약본/essay_v99/2. 力/12. 혼돈_v99.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "12. 혼돈_v99"
             }
           }
         ]
@@ -198,11 +202,25 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "2a64b1fbb40e367f",
   "lastOpenFiles": [
+    "시간공간인간/1_요약본/essay_v99/2. 力/11. 엔트로피_v99.md",
+    "시간공간인간/1_요약본/essay_v99/2. 力/9. 동시성_v99.md",
+    "시간공간인간/1_요약본/essay_v99/2. 力/8. 장_v99.md",
+    "시간공간인간/1_요약본/essay_v99/2. 力/7. 운동_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/6. 불완전성_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/5. 대칭_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/4. 곡률_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/3. 극한과 무한_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/1. 공리_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/2. 허실_v99.md",
+    "시간공간인간/1_요약본/essay_v99/1. 數/무제 1.md",
+    "시간공간인간/1_요약본/essay_v27/1. 數/무제 1.md",
     "시간공간인간/요약본/essay_v99_g/9. 美/47. 시_v99.md",
     "시간공간인간/요약본/essay_v99_g/9. 美/48. 비극_v99.md",
     "시간공간인간/요약본/essay_v99_g/9. 美/49. 미술_v99.md",
@@ -217,18 +235,6 @@
     "시간공간인간/요약본/essay_v99/10. 望/51. 우주_v99.md",
     "시간공간인간/요약본/essay_v99/9. 美/50. 건축_v99.md",
     "시간공간인간/요약본/essay_v99/9. 美/49. 미술_v99.md",
-    "시간공간인간/요약본/essay_v99/9. 美/48. 비극_v99.md",
-    "시간공간인간/요약본/essay_v99_g/9. 美/46. 산조_v99.md",
-    "시간공간인간/요약본/essay_v99_g/9. 美/45. 음계_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/44. 침묵_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/43. 경계_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/42. 해체_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/41. 이성_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/40. 의지_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/39. 인식_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/38. 실재_v99.md",
-    "시간공간인간/요약본/essay_v99_g/8. 思/37. 시간_v99.md",
-    "시간공간인간/요약본/essay_v99_g/7. 計/36. 양자계산_v99.md",
     "시간공간인간/집필 가이드/desktop.ini",
     "시간공간인간/집필 가이드",
     "시간공간인간/요약본/essay_v15_m/7. 計/desktop.ini",
