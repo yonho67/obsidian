@@ -84,8 +84,7 @@
               "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2a64b1fbb40e367f",
+  "active": "5b77b6cb64022b6c",
   "lastOpenFiles": [
     "시간공간인간/1_요약본/essay_v99/1. 數/5. 대칭_v99.md",
     "시간공간인간/1_요약본/essay_v99/4. 統/19. 깨짐_v99.md",
